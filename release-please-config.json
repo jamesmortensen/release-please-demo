@@ -1,6 +1,6 @@
 {
   "packages": {
-    "packages/*": {
+    "packages/pkg1": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
@@ -8,7 +8,7 @@
       "draft": false,
       "prerelease": false
     },
-    "packages": {
+    "packages/pkg2": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
