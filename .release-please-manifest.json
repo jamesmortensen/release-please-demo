@@ -8,8 +8,10 @@
       "exclude-paths": ["packages/*"]
     },
     "packages/pkg1": {
+      "component": "pkg1"
     },
     "packages/pkg2": {
+      "component": "pkg2"
     }
   }
 }
