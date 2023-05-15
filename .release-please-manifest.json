@@ -1,5 +1,4 @@
 {
-  "release-type": "node",
   "packages": {
     "packages/pkg1": {
       "component": "pkg1"
