@@ -1,10 +1,6 @@
 {
   "packages": {
-    "packages/pkg1": {
-      "component": "pkg1"
-    },
-    "packages/pkg2": {
-      "component": "pkg2"
-    }
+    "packages/pkg1": "0.0.1",
+    "packages/pkg2": "0.0.1"
   }
 }
