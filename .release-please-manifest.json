@@ -1,6 +1,4 @@
 {
-  "packages": {
     "packages/pkg1": "0.0.1",
     "packages/pkg2": "0.0.1"
-  }
 }
