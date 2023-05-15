@@ -1,12 +1,6 @@
 {
-  "bump-patch-for-minor-pre-major": true,
-  "skip-github-release": true,
-  "separate-pull-requests": true,
   "release-type": "node",
   "packages": {
-    ".": {
-      "exclude-paths": ["packages/*"]
-    },
     "packages/pkg1": {
       "component": "pkg1"
     },
