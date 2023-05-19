@@ -1,4 +1,5 @@
 {
+  "bootstrap-sha": "6b68b9953146a922a066c466fdb0627e253abf88",
   "packages": {
     "packages/pkg1": "0.0.1",
     "packages/pkg2": "0.0.1"
